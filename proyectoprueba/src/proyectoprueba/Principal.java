@@ -7,6 +7,7 @@ public class Principal {
 		System.out.print("Holi wankenobi");
 		System.out.print("Agur yogur!");
 		System.out.print("Ciao peacao");
+		System.out.print("Adios de verdad!");
 		}
 
 }
